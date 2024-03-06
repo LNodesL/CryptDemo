@@ -1,6 +1,6 @@
 # CryptDemo
 
-A simple codebase to showcase a very primitive example of loading an exe & pushing to a tmp file and suspended process.
+A simple codebase to showcase a very primitive example of loading an exe & pushing to a tmp file and process.
 
 ## Setup Example
 Compile Hello World program:
