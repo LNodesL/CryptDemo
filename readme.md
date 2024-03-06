@@ -5,7 +5,7 @@ A simple codebase to showcase a very primitive example of loading an exe & pushi
 ## Setup Example
 Compile Hello World program:
 ```
-gcc helloworld.cpp -static -o helloworld
+gcc helloworld.c -static -o helloworld
 ```
 
 Compile LoadAndRun.c:
